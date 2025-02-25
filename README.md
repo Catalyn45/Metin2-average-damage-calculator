@@ -19,3 +19,8 @@ gcc main.c
 .\a.exe 47 25     # min average damage 47 or min skill damage 25
 .\a.exe 47 25 200 # same as above but do 200 iterations (better precission on time but program will run longer)
 ```
+
+# Bonus
+
+Average time to get skill damage >= x switching `250` bonusses per second (from my testing, it seems a skill damage > `28` is not possible).
+![image](skill_damage_plot.jpg)
