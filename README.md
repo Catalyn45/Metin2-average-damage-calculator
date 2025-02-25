@@ -24,3 +24,6 @@ gcc main.c
 
 Average time to get skill damage >= x switching `250` bonusses per second (from my testing, it seems a skill damage > `28` is not possible).
 ![image](skill_damage_plot.jpg)
+
+Average time to get average damage >= x switching `250` bonuses per second
+![image](average_damage_plot.jpg)
